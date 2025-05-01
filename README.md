@@ -49,6 +49,7 @@ TEMP_DIR = '/path/to/temp/directory/'
 ```
 
 ## 📊 Data Setup
+Link to RocoV2 dataset : https://github.com/sctg-development/ROCOv2-radiology.git
 
 The system expects a dataset structured like the ROCO v2 dataset with:
 
