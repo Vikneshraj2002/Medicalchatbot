@@ -2,7 +2,7 @@
 
 class Config:
     # API keys
-    GROQ_API_KEY = "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"
+    GROQ_API_KEY = "YOUR API KEY"
 
     # # Optional: Keep OpenAI API key as fallback or for comparison
     # OPENAI_API_KEY = "your-openai-api-key-here"
