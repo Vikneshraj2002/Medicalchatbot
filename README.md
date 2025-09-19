@@ -88,6 +88,14 @@ Prepares and loads the medical dataset into the vector database.
 ### RAG System (`multimodal_rag_system.py`)
 Core component that coordinates retrieval and generation processes.
 
+## Input Output
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9aab86ee-1cc7-4068-9684-b0a8b81dd49a" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/45a87cb7-1db9-42c0-ac8a-9ecbc1ebec28" />
+
+
+
+
 ## 🔍 Diagnostics
 
 The application includes diagnostic tabs to:
@@ -117,8 +125,5 @@ The application includes diagnostic tabs to:
 
 ## 📄 License
 
-[Specify your license here]
+ Apache License 2.0
 
-## 📞 Support
-
-For issues, questions, or contributions, please contact [your contact information here].
